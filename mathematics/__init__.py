@@ -1,1 +1,1 @@
-from .mathematics import *
+from .module import *
